@@ -1,0 +1,13 @@
+## Citation
+
+If you found this code useful please cite our work as:
+
+    @article {chenDeepFaceEditing2021,
+        author = {Chen, Shu-Yu and Liu, Feng-Lin and Lai, Yu-Kun and Rosin, Paul L. and Li, Chunpeng and Fu, Hongbo and Gao, Lin},
+        title = {{DeepFaceEditing}: Deep Generation of Face Images from Sketches},
+        journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2021)},
+        year = {2021},
+        volume = 40,
+        pages = {90:1--90:15},
+        number = 4
+    }
