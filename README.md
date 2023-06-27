@@ -1,3 +1,5 @@
+![Project](https://github.com/Harshshokeen09/Sketch2Face/assets/75949358/e2181514-a1a6-4164-b70f-a91fedee7898)
+
 # Sketch-To-Face: A Deep Learning Framework for Face Image Synthesis from Freehand Sketches
 
 Introduction:
