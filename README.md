@@ -35,6 +35,10 @@ Facial Reconstruction and Forensics: Sketch-To-Face holds potential in facial re
 
 Education and Training: Sketch-To-Face can be a valuable tool in educational settings for teaching facial anatomy and expressions. Students can sketch faces, and the framework can generate corresponding realistic images, allowing for interactive and engaging learning experiences.
 
+# DOWNLOAD PRE-TRAINED MODEL:
+
+LINK: https://drive.google.com/file/d/1kny5MqZ9m8mo8ln65a5ycswVIkxemZjx/view?usp=sharing
+
 # Conclusion:
 
 Sketch-To-Face revolutionizes the field of face image synthesis by enabling the generation of realistic face images from freehand sketches. Its architecture, training process, and key features empower users with fine-grained control over facial attributes and provide high-quality output. With its diverse applications in character design, virtual reality, forensics, and education, Sketch-To-Face has the potential to reshape various industries and open up new possibilities in computer graphics and human-computer interaction.
