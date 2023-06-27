@@ -6,3 +6,22 @@ python test_model.py --geo ./images/6.png --output ./results/6.png --gen_sketch
 # 2nd Command: 
 
 python test_model.py --geo ./images/Sample.jpg --appear ./images/Sample.jpg --output ./results/Result.png --geo_type image
+
+@article {chenDeepFaceEditing2021,
+        author = {Chen, Shu-Yu and Liu, Feng-Lin and Lai, Yu-Kun and Rosin, Paul L. and Li, Chunpeng and Fu, Hongbo and Gao, Lin},
+        title = {{DeepFaceEditing}: Deep Generation of Face Images from Sketches},
+        journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2021)},
+        year = {2021},
+        volume = 40,
+        pages = {90:1--90:15},
+        number = 4}
+
+    @article{chenDeepFaceDrawing2020,
+    author = {Chen, Shu-Yu and Su, Wanchao and Gao, Lin and Xia, Shihong and Fu, Hongbo},
+    title = {{DeepFaceDrawing}: Deep Generation of Face Images from Sketches},
+    journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH  2020)},
+    year = {2020},
+    volume = 39,
+    pages = {72:1--72:16},
+    number = 4
+}
